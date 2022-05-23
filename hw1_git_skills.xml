@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <skills>
+      <skill>
+         <description>Что такое тестирование, баг-репорты, документация, виды, методы, направления тестирования и т.п. SDLC, STLC.</description>
+         <title>basic_theory</title>
+      </skill>
+      <skill>
+         <description>Что такое клиент-серверная архитектура</description>
+         <title>client_server_architecture</title>
+      </skill>
+      <skill>
+         <description>HTTP Методы запросов на сервер</description>
+         <title>http_methods</title>
+      </skill>
+      <skill>
+         <description>Коды ответов HTTP сервера</description>
+         <title>http_status_codes</title>
+      </skill>
+      <skill>
+         <description>Структуры HTTP запросов и ответов</description>
+         <title>http_structures</title>
+      </skill>
+      <skill>
+         <description>Что такое JSON, XML. Их структура</description>
+         <title>json_xml</title>
+      </skill>
+      <skill>
+         <description>Тестирование API через Postman - JS, автотесты API</description>
+         <title>api_testing</title>
+      </skill>
+      <skill>
+         <description>Снятие и чтение логов с внешнего сервера</description>
+         <title>logs</title>
+      </skill>
+      <skill>
+         <description>Сниффинг http web трафика через Charles и Fiddler</description>
+         <title>sniffing</title>
+      </skill>
+      <skill>
+         <description>Dev Tools веб браузеров Google Chrome, FireFox</description>
+         <title>DevTools</title>
+      </skill>
+      <skill>
+         <description>Как работает, зачем нужен, как использовать, варианты инструментов</description>
+         <title>VPN</title>
+      </skill>
+      <skill>
+         <description>Мобильное тестирование</description>
+         <title>mobile testing</title>
+      </skill>
+      <skill>
+         <description>Особенность iOS, Android, гайдлайны</description>
+         <title>mobile_os_features</title>
+      </skill>
+      <skill>
+         <description>Сборка iOS приложений на XCode</description>
+         <title>XCode</title>
+      </skill>
+      <skill>
+         <description>Сборка Android приложений на Android Studio</description>
+         <title>building_android_apps</title>
+      </skill>
+      <skill>
+         <description>Управление андроид девайсами</description>
+         <title>ADB</title>
+      </skill>
+      <skill>
+         <description>Настройка прокси и vpn на iOS и Android</description>
+         <title>mobile_proxy_vpn</title>
+      </skill>
+      <skill>
+         <description>Перехват мобильного трафика через Charles и Fiddler на iOS и Android</description>
+         <title>mobile_traffic_sniffing</title>
+      </skill>
+      <skill>
+         <description>Командная строка terminal Linux: копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса</description>
+         <title>terminal_Linux</title>
+      </skill>
+      <skill>
+         <description>Основы bash скриптинг, автоматизация рутинных задач на сервере</description>
+         <title>Bash_scripting_basics</title>
+      </skill>
+      <skill>
+         <description>Доступ к удалённым серверам</description>
+         <title>remote_servers</title>
+      </skill>
+      <skill>
+         <description>Основы SQL: Create, Delete, Drop, Insert Into, Select, From, Where, Join</description>
+         <title>SQL_basics</title>
+      </skill>
+      <skill>
+         <description>База данных Postgres - установка, настройка и использование</description>
+         <title>postgres_bd</title>
+      </skill>
+      <skill>
+         <description>Нереляционная база данных Redis: установка, настройка и использование</description>
+         <title>Redis_bd</title>
+      </skill>
+      <skill>
+         <description>Нагрузочное тестирование в Jmeter</description>
+         <title>Jmeter</title>
+      </skill>
+      <skill>
+         <description>Методология разработки Scrum</description>
+         <title>Scrum</title>
+      </skill>
+      <skill>
+         <description>Python. Изучение основ. Создание клиент серверного приложения</description>
+         <title>Python_basics</title>
+      </skill>
+   </skills>
+</root>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+        <students>
+	<student name="LgK Liliya">
+        <favorite_movie>Only Lovers Left Alive</favorite_movie>
+        <favorite_series>Firefly</favorite_series>
+		<favorite_food>meat</favorite_food>
+        <favorite_time_of_year>spring</favorite_time_of_year>
+        <country_to_visit>Nepal</country_to_visit>
+    </student>
+    </students>
+</root>
