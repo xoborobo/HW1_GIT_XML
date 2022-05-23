@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <students>
+	<student name="LgK Liliya">
+		<age>40</age>
+		<quantity_of_pets>2</quantity_of_pets>
+		<desired_salary>100500</desired_salary>
+    </student>
+    </students>
+</root>
