@@ -1,1 +1,28 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_list>
+   <bug_123>
+      <actual_result>Форма регистрации/входа не открывается, в devTools получаем ошибку 500: internal server error</actual_result>
+      <assigned_to>Nick</assigned_to>
+      <attachment>file DT_reg_form_1.jpg</attachment>
+      <author>Xbrb</author>
+      <component>registration form</component>
+      <environment>MacOs Monterey 12.2.1, Chrome 100.0.4896.127</environment>
+      <expected_result>Открывается форма регистрации/входа</expected_result>
+      <priority>High</priority>
+      <project>store front</project>
+      <reproduce_steps>
+         <step>
+            <description>Открыть главную страницу сайта</description>
+            <step_number>1</step_number>
+         </step>
+         <step>
+            <description>В хедере кликнуть на кнопку Регистрация</description>
+            <step_number>2</step_number>
+         </step>
+      </reproduce_steps>
+      <severity>Critical</severity>
+      <status>New</status>
+      <summary>Не открывается форма регистрации</summary>
+      <version>1.1</version>
+   </bug_123>
+</bug_list>
